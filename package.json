@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-tech-port-engine-ai-ktf",
+  "version": "1.0.0",
+  "description": "Intelligent automation framework",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "tech-port-engine-ai-ktf"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-tech-port-engine-ai-ktf.git"
+  }
+}
